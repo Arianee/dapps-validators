@@ -8,16 +8,16 @@ self.__precacheManifest = [
     "url": "https://arianee.github.io/dapps-validators/static/media/kovan.14405d87.svg"
   },
   {
-    "revision": "b17847f3f9b256016ff29149cf578ced",
-    "url": "https://arianee.github.io/dapps-validators/static/media/xdai.b17847f3.svg"
-  },
-  {
     "revision": "14405d8763a5ef8d6a334f89e6fa1c46",
     "url": "https://arianee.github.io/dapps-validators/static/media/sokol.14405d87.svg"
   },
   {
     "revision": "ad4f59254dba06bf06f2c79373cc5ae5",
     "url": "https://arianee.github.io/dapps-validators/static/media/kovan.ad4f5925.svg"
+  },
+  {
+    "revision": "b17847f3f9b256016ff29149cf578ced",
+    "url": "https://arianee.github.io/dapps-validators/static/media/xdai.b17847f3.svg"
   },
   {
     "revision": "3ab0ed5ce90939d706cd797113a75220",

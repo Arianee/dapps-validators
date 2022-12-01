@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/dapps-validators/precache-manifest.8c1a28517d36d523113aaf69f72b93c7.js"
+  "https://arianee.github.io/dapps-validators/precache-manifest.479d129f3b352d39bfb8a9b15ca8d28c.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/dapps-validators/index.html", {
+workbox.routing.registerNavigationRoute("https://arianee.github.io/dapps-validators/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
